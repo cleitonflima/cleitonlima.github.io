@@ -18,6 +18,7 @@ plainwhite:
   dark_mode: true # set to true to add dark mode toggle
 
   # generate social links in footer
+  # generate social links in footer
   social_links:
     twitter: cleitonflima
     #github:  thelehhman
