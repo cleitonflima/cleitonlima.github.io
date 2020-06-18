@@ -1,10 +1,8 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Cleiton Lima
+author: Cleiton Lima
+email: cleitonlima@protonmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Blog do pedagogo Cleiton Felix de Lima.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -21,9 +19,9 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    twitter: cleitonflima
+    #github:  thelehhman
+    #linkedIn: in/thelehhman
     rss: rss
     # dribbble: jekyll
     # flickr:   jekyll
@@ -36,8 +34,8 @@ plainwhite:
 
     # Mastodon instances
     # mastodon:
-    # - username: jekyll
-    #   instance: example.com
+     - username: cleitonlima
+       instance: mastodon.com.br
     # - username: jekyll2
     #   instance: example.com
 
