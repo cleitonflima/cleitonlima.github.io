@@ -20,7 +20,7 @@ plainwhite:
     - title: Lattes
       url: "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8979708J7"
     - title: Sobre
-      url: "/about.html"
+      url: "/about"
   # generate social links in footer
   social_links:
     twitter: cleitonflima
