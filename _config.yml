@@ -1,8 +1,8 @@
-title: Cleiton Lima
+title: Blog do Cleiton
 author: Cleiton Lima
-email: cleitonlima@protonmail.com
+email: contato@cleitonlima.com.br
 description: > # this means to ignore newlines until "show_exerpts:"
-  Blog do pedagogo Cleiton Felix de Lima.
+  Blog do pedagogo e pesquisador Cleiton Felix de Lima
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -18,12 +18,11 @@ plainwhite:
   dark_mode: true # set to true to add dark mode toggle
 
   # generate social links in footer
-  # generate social links in footer
   social_links:
-    # twitter: cleitonflima
-    # github:  thelehhman
-    # linkedIn: in/thelehhman
-    # rss: rss
+    twitter: thelehhman
+    github:  thelehhman
+    linkedIn: in/thelehhman
+    rss: rss
     # dribbble: jekyll
     # flickr:   jekyll
     # instagram: jekyll
@@ -34,9 +33,9 @@ plainwhite:
     # telegram: jekyll
 
     # Mastodon instances
-     mastodon:
-     - username: cleitonlima
-       instance: mastodon.com.br
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
     # - username: jekyll2
     #   instance: example.com
 
@@ -46,8 +45,7 @@ header_pages:
  - about.md
 
 # Build settings
-theme: jekyll-theme-minimal
-remote_theme: thelehhman/plainwhite-jekyll
+theme: plainwhite
 
 plugins:
   - jekyll-seo-tag
