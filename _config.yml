@@ -33,9 +33,9 @@ plainwhite:
     # telegram: jekyll
 
     # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
+     mastodon:
+     - username: cleitonlima
+       instance: mastodon.com.br
     # - username: jekyll2
     #   instance: example.com
 
