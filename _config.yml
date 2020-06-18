@@ -19,7 +19,7 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter:  cleitonflima
+    twitter: "cleitonflima"
     #github:  thelehhman
     #linkedIn: in/thelehhman
     rss: rss
