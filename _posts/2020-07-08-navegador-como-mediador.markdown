@@ -2,7 +2,7 @@
 layout: post
 title:  "O navegador como mediador: uma breve análise da troca de navegador pessoal utilizando a Ecologia das Mídias"
 date:   2020-07-08 00:03:36 +0530
-categories: Ecologia das Mídias, Tecnologia
+categories: ecologia-das-mídias, tecnologia
 ---
 
 ### Parte 1: A troca
@@ -25,7 +25,7 @@ O Mozilla Firefox, por exemplo, tem uma funcionalidade de [contêineres](https:/
 
 ### Parte 3: Ecologia das Mídias
 
-Em um evento ainda na década de 1970[²], classificou a Ecologia das Mídias como o estudo das mídias como ambientes. Continuando, ele afirma que:
+Em um evento ainda na década de 1970[²], Postman classificou a Ecologia das Mídias como o estudo das mídias como ambientes. Continuando, ele afirma que:
 		
 >"Um ambiente é, afinal, um complexo sistema de mensagens que impõe aos seres humanos certas formas de pensar, sentir, e se comportar. Ele estrutura o que nós podemos ver e dizer e, portanto, fazer. Ele nos impõe papéis e insiste que nós os ocupemos. Ele especifica o que nos é permitido fazer ou não."
 
