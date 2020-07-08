@@ -2,7 +2,7 @@
 layout: post
 title:  "O navegador como mediador: uma breve análise da troca de navegador pessoal utilizando a Ecologia das Mídias"
 date:   2020-07-08 00:03:36 +0530
-categories: ME
+categories: ecologia-das-midias
 ---
 
 ### Parte 1: A troca
