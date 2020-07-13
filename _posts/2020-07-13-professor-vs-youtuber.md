@@ -2,7 +2,7 @@
 layout: post
 title:  "Por que a aula do meu professor sobre X é chata e o vídeo daquele YouTuber que fala sobre o mesmo assunto é MUITO legal e divertido?"
 date:   2020-07-13 00:03:36 +0530
-categories: educação, tecnologia
+categories: educação tecnologia
 ---
 
 Domingo. Estou eu estirado na minha cama descansando e fingindo que não tem uma pilha de livros na cabeceira esperando para serem estudados para a pesquisa do mestrado. Abro o Twitter para relaxar (inocente). Me deparo com [esse tweet](https://twitter.com/andrezadelgado/status/1282386917594746889). Evito ao máximo me meter em discussões no Twitter ou em qualquer outra rede social, mas como a questão atravessava a minha área de atuação - pedagogia - e as minhas áreas de pesquisa - avaliação na educação e mídias, eu não me aguentei e dei algumas respostas. Como 250 caracteres é pouca coisa para se fazer entender e para conseguir dar alguma profundidade a discussão, resolvi escrever esse breve post.
